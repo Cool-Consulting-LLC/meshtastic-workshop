@@ -1,0 +1,12 @@
+[project]
+name = "meshtastic-workshop"
+version = "0.1.0"
+description = "Meshtastic Workshop resources and tooling"
+requires-python = ">=3.13"
+dependencies = [
+    "protobuf==4.25.8",
+    "meshtastic",
+    "platformio",
+    "esptool",
+    "requests",
+]
