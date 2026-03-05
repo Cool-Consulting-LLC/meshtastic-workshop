@@ -10,7 +10,11 @@ Please install a Chrome-based browser; it's needed to access a serial connection
 
 Install the [CP210x serial drivers](https://meshtastic.org/docs/getting-started/serial-drivers/esp32/).
 
-## Step 3: Python tooling
+## Step 3: Clone this repo
+
+Please clone this repo and then navigate to the folder you've cloned in your terminal before running Step 4.
+
+## Step 4: Python tooling
 
 There are two ways to configure the Python resources you'll need for the workshop. If you've never sued Python before, we recommend using UV to manage your Python installation and dependencies. If you've used Python before, skip to the pure Python directions.
 
