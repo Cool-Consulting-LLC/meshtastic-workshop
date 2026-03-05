@@ -37,7 +37,7 @@ $ uv sync --python 3.13.1
 Run the following commands in your termainl to verify installation worked:
 
 ```
-$ python3 --version
+$ uvx python3 --version
 Python 3.13.1
 
 $ uvx meshtastic --version
@@ -61,7 +61,7 @@ Please be sure you've installed Python v3.13.1.
 
 ### Step B
 
-Once you have python installed, run the following commands. 
+Once you have python installed, run the following commands.
 
 ```
 $ python3 -m venv venv
